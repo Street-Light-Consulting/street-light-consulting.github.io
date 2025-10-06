@@ -67,7 +67,7 @@ main.main-content { padding-top: 5rem; }
   transition: var(--transition);
 }
 .card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.35); }
-.card img { width: 100%; height: auto; border-radius: 12px; }
+.card img { width: 100%; height: auto; border-radius: 12px; margin-bottom:15px; }
 
 /* Buttons */
 .btn, .bronze {
