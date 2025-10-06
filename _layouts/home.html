@@ -16,8 +16,8 @@ layout: default
     {% assign featured = site.services | slice: 0, 2 %}
     {% for s in featured %}
     <article class="card">
-      {% if s.image %}<img src="{{ s.image | relative_url }}" alt="{{ s.title }}" loading="lazy">{% endif %}
       <h3>{{ s.title }}</h3>
+      {% if s.image %}<img src="{{ s.image | relative_url }}" alt="{{ s.title }}" loading="lazy">{% endif %}
       <p class="tagline">{{ s.tagline }}</p>
       <p class="price">{{ s.price }}</p>
       <a href="{{ s.url | relative_url }}" class="btn">View Project</a>
