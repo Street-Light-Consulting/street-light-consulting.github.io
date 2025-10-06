@@ -19,6 +19,8 @@ body {
   background: var(--background-color);
 }
 
+p {color: var(--muted-color); }
+
 
 h1, h2, h3 { font-family: "Montserrat", sans-serif; color: var(--color); }
 
