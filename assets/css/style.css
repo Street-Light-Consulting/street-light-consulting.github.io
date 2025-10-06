@@ -19,7 +19,7 @@ body {
   background: var(--background-color);
 }
 
-p,li {color: var(--muted-color); }
+p,li,label {color: var(--muted-color); }
 article { background-color:black;}
 
 
