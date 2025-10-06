@@ -77,7 +77,7 @@ main.main-content { padding-top: 5rem; }
 
 /* Pages & Posts */
 .page .page-body, .post .post-body { margin-top: .75rem; }
-.post .meta, .card .meta, .price, .tagline { color: var(--muted-color); }
+.post .meta, .card .meta, .price, .tagline p { color: var(--muted-color); }
 
 /* Service Detail */
 .service-detail .service-hero { width: 100%; height: auto; border-radius: 12px; margin-bottom: .75rem; }
