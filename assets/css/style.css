@@ -43,6 +43,112 @@ a:hover { color: var(--secondary); }
 
 main.main-content { padding-top: 5rem; }
 
+/* --- Responsive Navigation --- */
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-links ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  color: var(--color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: var(--secondary);
+}
+
+/* Toggle elements hidden on desktop */
+.nav-toggle,
+.nav-toggle-label {
+  display: none;
+}
+
+/* --- MOBILE MODE --- */
+@media (max-width: 768px) {
+  .nav-links {
+    position: absolute;
+    top: 64px;
+    left: 0;
+    width: 100%;
+    background: rgba(26, 26, 26, 0.98);
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    display: none;
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem 0;
+  }
+
+  .nav-links ul {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label + .nav-links {
+    display: flex;
+  }
+
+  /* Hamburger button */
+  .nav-toggle-label {
+    display: block;
+    cursor: pointer;
+    width: 28px;
+    height: 22px;
+    position: relative;
+  }
+
+  .nav-toggle-label span,
+  .nav-toggle-label span::before,
+  .nav-toggle-label span::after {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: var(--color);
+    border-radius: 2px;
+    transition: all 0.3s ease;
+  }
+
+  .nav-toggle-label span {
+    top: 10px;
+  }
+
+  .nav-toggle-label span::before {
+    top: -8px;
+  }
+
+  .nav-toggle-label span::after {
+    top: 8px;
+  }
+
+  /* Transform into X when opened */
+  .nav-toggle:checked + .nav-toggle-label span {
+    background: transparent;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label span::before {
+    transform: rotate(45deg);
+    top: 0;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label span::after {
+    transform: rotate(-45deg);
+    top: 0;
+  }
+}
+
+
 /* Hero */
 .hero { text-align:center; padding: 2rem 1rem 4rem; }
 .hero-logo { width: 500px; height:auto; margin-bottom: 1rem; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.6)); }
