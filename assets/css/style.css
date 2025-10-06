@@ -35,7 +35,7 @@ a:hover { color: var(--secondary); }
   border-bottom: 1px solid rgba(255,255,255,0.05);
   z-index: 1000;
 }
-.nav-inner { display:flex; align-items:center; justify-content:space-between; padding: .7rem 0; }
+.nav-inner { display:flex; align-items:center; justify-content:space-between; }
 .nav-logo { width: 36px; height: 36px; border-radius: 8px; margin-right: .5rem; vertical-align: middle; }
 .brand { display:flex; align-items:center; gap:.5rem; color: var(--color); text-decoration: none; }
 .brand-text { font-weight: 800; letter-spacing: .5px; }
