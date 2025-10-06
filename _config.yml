@@ -1,0 +1,21 @@
+title: Street Light Consulting
+tagline: Illuminating clarity in leadership and mission.
+description: Helping leaders build clarity, systems, and faith-driven excellence.
+url: https://streetlight.consulting
+baseurl: ""
+
+author: Rob Street
+
+collections:
+  services:
+    output: true
+    permalink: /services/:name/
+
+permalink: /:categories/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed

@@ -1,0 +1,95 @@
+/* Street Light Consulting — Pico overrides and brand theme */
+:root {
+  --primary: #C19A6B; /* bronze */
+  --secondary: #F5C26B; /* flame */
+  --background-color: #1A1A1A; /* charcoal */
+  --color: #EAE6DF; /* soft white text */
+  --muted-color: #CFC7BA;
+  --card-background-color: rgba(255,255,255,0.03);
+  --border-radius: 14px;
+  --transition: all 0.2s ease-in-out;
+}
+
+html, body { background: var(--background-color); color: var(--color); }
+body { font-family: "Lora", serif; line-height: 1.7; }
+
+h1, h2, h3 { font-family: "Montserrat", sans-serif; color: var(--color); }
+
+a { color: var(--primary); }
+a:hover { color: var(--secondary); }
+
+/* Fixed Nav */
+.site-nav {
+  position: fixed; top: 0; width: 100%;
+  background: rgba(26,26,26,0.95);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  z-index: 1000;
+}
+.nav-inner { display:flex; align-items:center; justify-content:space-between; padding: .7rem 0; }
+.nav-logo { width: 36px; height: 36px; border-radius: 8px; margin-right: .5rem; vertical-align: middle; }
+.brand { display:flex; align-items:center; gap:.5rem; color: var(--color); text-decoration: none; }
+.brand-text { font-weight: 800; letter-spacing: .5px; }
+
+main.main-content { padding-top: 5rem; }
+
+/* Hero */
+.hero { text-align:center; padding: 6rem 1rem 4rem; }
+.hero-logo { width: 120px; height:auto; margin-bottom: 1rem; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.6)); }
+.hero h1 { color: var(--primary); margin-bottom: .3rem; }
+.hero .tagline { color: var(--muted-color); margin-bottom: .5rem; }
+.hero .intro { font-size: 1.15rem; max-width: 700px; margin: 0 auto 1.25rem; }
+
+/* Grid (Services & Insights) */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  gap: 2rem;
+  margin: 1.5rem 0 2rem;
+  align-items: stretch;
+}
+
+.card {
+  background: var(--card-background-color);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: var(--border-radius);
+  padding: 1.2rem 1.2rem 1.4rem;
+  transition: var(--transition);
+}
+.card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.35); }
+.card img { width: 100%; height: auto; border-radius: 12px; }
+
+/* Buttons */
+.btn, .bronze {
+  display:inline-block; text-decoration:none;
+  background: var(--primary); color: var(--background-color);
+  padding: .65rem 1.1rem; border-radius: 12px; font-weight: 700;
+  transition: var(--transition);
+}
+.btn:hover, .bronze:hover { background: var(--secondary); }
+
+/* Pages & Posts */
+.page .page-body, .post .post-body { margin-top: .75rem; }
+.post .meta, .card .meta, .price, .tagline { color: var(--muted-color); }
+
+/* Service Detail */
+.service-detail .service-hero { width: 100%; height: auto; border-radius: 12px; margin-bottom: .75rem; }
+
+/* Footer */
+.site-footer { text-align: center; color: var(--muted-color); padding: 2rem 0; margin-top: 2rem; }
+.divider { width: 60px; height: 2px; background: var(--primary); margin: 0 auto 1rem; opacity: .7; }
+
+/* Forms */
+form {
+  max-width: 600px; margin: 2rem auto;
+  background: rgba(255,255,255,0.03);
+  padding: 1.5rem; border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+input, textarea {
+  width: 100%; padding: .75rem; border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: #2A2A2A; color: var(--color);
+  margin-top: .25rem;
+}
+textarea { min-height: 120px; resize: vertical; }
