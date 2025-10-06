@@ -20,6 +20,7 @@ body {
 }
 
 p {color: var(--muted-color); }
+article { background-color:black;}
 
 
 h1, h2, h3 { font-family: "Montserrat", sans-serif; color: var(--color); }
