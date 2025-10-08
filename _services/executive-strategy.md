@@ -1,12 +1,10 @@
 ---
 layout: service
-title: Executive Strategy & Operations Coaching (Virtual COO Session)
+title: Executive Strategy & Operations Coaching
 tagline: An executive clarity session — strategy and focus in one hour.
 price: "$100 / first hour — $60 each additional hour"
 image: /assets/img/services/executive.webp
 ---
-
-# Executive Strategy & Clarity
 
 Executives and founders often operate at the edge of complexity — balancing growth, people, and purpose.  
 This page helps you reset, refocus, and realign your strategy with clarity and conviction.
