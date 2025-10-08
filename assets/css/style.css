@@ -42,7 +42,7 @@ a:hover { color: var(--secondary); }
 .brand { display:flex; align-items:center; gap:.5rem; color: var(--color); text-decoration: none; }
 .brand-text { font-weight: 800; letter-spacing: .5px; }
 
-main.main-content { padding-top: 5rem; }
+main.main-content { padding-top: 2rem; }
 
 /* --- Responsive Navigation --- */
 .nav-inner {
