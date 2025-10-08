@@ -210,3 +210,5 @@ input, textarea {
   margin-top: .25rem;
 }
 textarea { min-height: 120px; resize: vertical; }
+
+legend {color:var(--muted-color);}

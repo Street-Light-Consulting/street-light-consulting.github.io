@@ -15,6 +15,8 @@ We’ll work together to:
 - Establish measurable goals and accountability systems  
 - Strengthen alignment between mission, metrics, and morale  
 
+## Tags
+Executive Coaching · Virtual COO · Business Strategy · Operations Consulting · Leadership Clarity
 ---
 ## Description
 Are you a founder, executive director, or business owner who needs a trusted sounding board?  
@@ -132,9 +134,6 @@ You’ll get focused, experienced guidance from a **Virtual COO** — your secon
 
   <button type="submit">Submit Form</button>
 </form>
-
-## Tags
-Executive Coaching · Virtual COO · Business Strategy · Operations Consulting · Leadership Clarity
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
