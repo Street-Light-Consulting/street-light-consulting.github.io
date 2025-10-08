@@ -17,7 +17,9 @@ We’ll work together to:
 
 ## Tags
 Executive Coaching · Virtual COO · Business Strategy · Operations Consulting · Leadership Clarity
+
 ---
+
 ## Description
 Are you a founder, executive director, or business owner who needs a trusted sounding board?  
 This one-hour session offers **real-time clarity** for leaders navigating complex decisions.  
