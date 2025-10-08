@@ -3,6 +3,7 @@ layout: default
 ---
 <article class="card">
   <h1>{{ page.title }}</h1>
+  {% if page.image %}<img class="service-hero" src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy">{% endif %}
   <p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
   <div class="post-body">
     {{ content }}
