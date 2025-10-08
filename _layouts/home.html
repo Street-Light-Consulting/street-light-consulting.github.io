@@ -33,6 +33,7 @@ layout: default
     {% for p in latest %}
     <article class="card">
       <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+      {% if p.image %}<img class="service-hero" src="{{ p.image | relative_url }}" alt="{{ p.title }}" loading="lazy">{% endif %}
       <p class="meta">{{ p.date | date: "%b %d, %Y" }}</p>
       <p>{{ p.excerpt }}</p>
       <a href="{{ p.url | relative_url }}" class="btn">Read More</a>
