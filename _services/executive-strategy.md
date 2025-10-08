@@ -39,9 +39,6 @@ You’ll get focused, experienced guidance from a **Virtual COO** — your secon
 - Business owners overwhelmed by operations  
 - Teams facing communication or system breakdowns
 
-## Tags
-Executive Coaching · Virtual COO · Business Strategy · Operations Consulting · Leadership Clarity
-
 <form action="https://formspree.io/f/mldpwzwy" method="POST" class="clarity-intake-form">
   <h3>Schedule an Executive Clarity Call</h3>
   <p>Use the form below to share what’s most important for us to focus on. Your responses remain confidential and are used only to tailor your session.</p>

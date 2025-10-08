@@ -199,7 +199,7 @@ main.main-content { padding-top: 5rem; }
 /* Forms */
 form {
   max-width: 600px; margin: 2rem auto;
-  background: rgba(255,255,255,0.03);
+  background: var(--card-background-color);
   padding: 1.5rem; border-radius: 14px;
   border: 1px solid rgba(255,255,255,0.08);
 }
