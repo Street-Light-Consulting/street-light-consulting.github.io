@@ -42,14 +42,9 @@ You’ll get focused, experienced guidance from a **Virtual COO** — your secon
 ## Tags
 Executive Coaching · Virtual COO · Business Strategy · Operations Consulting · Leadership Clarity
 
-
-## Schedule an Executive Clarity Call
-
-Use the form below to share what’s most important for us to focus on.  
-Your responses remain confidential and are used only to tailor your session.
-
 <form action="https://formspree.io/f/mldpwzwy" method="POST" class="clarity-intake-form">
-  <h3>Executive Clarity Call – Intake Form</h3>
+  <h3>Schedule an Executive Clarity Call</h3>
+  <p>Use the form below to share what’s most important for us to focus on. Your responses remain confidential and are used only to tailor your session.</p>
   <p><em>“Plans fail for lack of counsel, but with many advisers they succeed.” — Proverbs 15:22</em></p>
 
   <label>Name:<br><input type="text" name="name" required></label><br>
@@ -140,6 +135,9 @@ Your responses remain confidential and are used only to tailor your session.
 
   <button type="submit">Submit Form</button>
 </form>
+
+## Tags
+Executive Coaching · Virtual COO · Business Strategy · Operations Consulting · Leadership Clarity
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
