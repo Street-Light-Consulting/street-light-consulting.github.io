@@ -11,7 +11,7 @@ permalink: /about/
 > Restorer of Streets with Dwellings.”
 > — *Isaiah 58:12*
 
-# Our Why
+## Our Why
 
 At **Street Light Consulting**, we believe work was never meant to be a burden.  
 When organizations lose sight of their purpose, the weight of endless meetings, late nights, and anxious striving replaces peace.  

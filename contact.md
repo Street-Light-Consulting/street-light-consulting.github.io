@@ -9,9 +9,8 @@ If your organization is ready to find rest and clarity again, we’d be honored 
 Use the form below to share a few details, and we’ll be in touch soon.  
 Your message is private — it will go directly to our inbox.
 
-## Begin the Conversation
-
 <form action="https://formspree.io/f/xjkaolnw" method="POST">
+  <h2>Begin the Conversation</h2>
   <label>
     Your Name
     <input type="text" name="name" required>
