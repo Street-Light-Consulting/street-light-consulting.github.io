@@ -213,4 +213,20 @@ textarea { min-height: 120px; resize: vertical; }
 
 legend {color:var(--muted-color);}
 
-td,th {background-color:var(--muted-color);}
+td,th {
+  background-color:var(--muted-color);
+  border:none;
+
+}
+
+table {
+  border-collapse: separate;     /* Allows border-radius to work */
+  border-spacing: 0;             /* Removes gaps between cells */
+  border-radius: 10px;           /* Rounds the outer corners */
+  overflow: hidden;              /* Ensures content doesn't spill over */
+  border: 1px solid #ccc;        /* Outer border only (optional) */
+}
+
+
+
+
