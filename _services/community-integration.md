@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Community & Faith Integration (Team Reconnection Experience)
+title: Community & Faith Team Reconnection
 tagline: Recenter your team through service — rediscover joy in humility.
 price: "$5,000 / 30-Day Engagement"
 image: /assets/img/services/community.webp
