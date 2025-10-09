@@ -212,3 +212,5 @@ input, textarea {
 textarea { min-height: 120px; resize: vertical; }
 
 legend {color:var(--muted-color);}
+
+td,th {background-color:var(--muted-color);}
