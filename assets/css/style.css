@@ -227,12 +227,14 @@ table {
   border: 1px solid #ccc;        /* Outer border only (optional) */
 }
 
-/* --- Service Layout with Image Left and Text Right --- */
+/* --- Service Layout with Image Right and Text Left --- */
 .service-layout {
   display: flex;
   align-items: flex-start;
+  justify-content: space-between;
   gap: 2rem;
   flex-wrap: wrap;
+  flex-direction: row-reverse; /* 👈 flips the order */
 }
 
 .service-layout .service-hero {
@@ -257,8 +259,3 @@ table {
     margin-bottom: 1rem;
   }
 }
-
-
-
-
-
