@@ -52,7 +52,7 @@ You’ll get focused, experienced guidance from a **Virtual COO** — your secon
   <div class="form-content">
     <button class="close-modal" aria-label="Close Form">&times;</button>
     <form action="https://formspree.io/f/mldpwzwy" method="POST" class="clarity-intake-form">
-      <h3>Schedule an Executive Clarity Call</h3>
+      <h3>Schedule an Executive Call</h3>
       <p>Use the form below to share what’s most important for us to focus on. Your responses remain confidential and are used only to tailor your session.</p>
       <p><em>“Plans fail for lack of counsel, but with many advisers they succeed.” — Proverbs 15:22</em></p>
 

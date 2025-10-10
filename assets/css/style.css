@@ -379,4 +379,5 @@ table {
   margin: 2rem auto;
   font-size: 1.1rem;
   cursor: pointer;
+  border-color:black;
 }
