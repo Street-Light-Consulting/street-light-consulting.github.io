@@ -2,13 +2,18 @@
 layout: default
 ---
 <article class="service-detail">
-  {% if page.image %}<img class="service-hero" src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy">{% endif %}
-  <h1>{{ page.title }}</h1>
-  {% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
-  {% if page.price %}<p class="price">{{ page.price }}</p>{% endif %}
-
-  <div class="service-body">
-    {{ content }}
+  {% if page.image %}
+  <div class="service-layout">
+    <img class="service-hero" src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy">
+    <div class="service-text">
+      <h1>{{ page.title }}</h1>
+      {% if page.tagline %}<p class="tagline">{{ page.tagline }}</p>{% endif %}
+      {% if page.price %}<p class="price">{{ page.price }}</p>{% endif %}
+      <div class="service-body">
+        {{ content }}
+      </div>
+      <p><a href="{{ '/services/' | relative_url }}">← Back to Services</a></p>
+    </div>
   </div>
-  <p><a href="{{ '/services/' | relative_url }}">← Back to Services</a></p>
+  {% endif %}
 </article>

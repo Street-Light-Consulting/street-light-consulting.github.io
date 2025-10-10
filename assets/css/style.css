@@ -227,6 +227,38 @@ table {
   border: 1px solid #ccc;        /* Outer border only (optional) */
 }
 
+/* --- Service Layout with Image Left and Text Right --- */
+.service-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.service-layout .service-hero {
+  width: 40%;
+  max-width: 450px;
+  height: auto;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.service-layout .service-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+@media (max-width: 768px) {
+  .service-layout {
+    flex-direction: column;
+  }
+  .service-layout .service-hero {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+
+
 
 
 
