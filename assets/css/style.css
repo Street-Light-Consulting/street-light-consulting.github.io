@@ -19,7 +19,7 @@ body {
   background: var(--background-color);
 }
 
-p,li,label {color: var(--muted-color); }
+p,li,label,fieldset legend {color: var(--muted-color); }
 article { background-color:var(--background-color);}
 
 
