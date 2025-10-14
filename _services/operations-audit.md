@@ -11,6 +11,11 @@ This 30-day audit delivers a complete evaluation of your organization’s system
 
 We assess how your teams communicate, how resources move, and where time and money are lost. Then we build a tailored **Operations Blueprint** that defines how your organization should truly run — connecting operations, finance, and accountability under one clear structure.
 
+## Tags
+Operations Audit · Systems & Finance Consulting · Process Improvement · Internal Controls · Workflow Optimization
+
+---
+
 ## What’s Included
 - Full 30-day **operational and financial audit**  
 - Departmental and leadership interviews  
@@ -36,14 +41,9 @@ We assess how your teams communicate, how resources move, and where time and mon
 - Founders or boards ready for greater transparency  
 - Organizations outgrowing informal systems
 
-## Tags
-Operations Audit · Systems & Finance Consulting · Process Improvement · Internal Controls · Workflow Optimization
-
-<p style="text-align:center; max-width:640px; margin:2rem auto;">
-  Ready to bring order and flow back to your operations? <br>
-  This 30-day <strong>Operations Reset</strong> begins with a clear understanding of your systems, your team, and your goals. 
-  Complete the form below to take the first step toward lasting clarity and alignment.
-</p>
+Ready to bring order and flow back to your operations?
+This 30-day <strong>Operations Reset</strong> begins with a clear understanding of your systems, your team, and your goals. 
+Complete the form below to take the first step toward lasting clarity and alignment.
 
 <button id="startProcessBtn" class="btn">Start Your Operations Reset</button>
 

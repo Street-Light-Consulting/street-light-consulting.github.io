@@ -11,6 +11,11 @@ Are you looking to improve staff performance, accountability, and retention? I p
 
 Each coaching program is individualized to ensure employees feel supported, motivated, and accountable — leading to measurable improvements for your organization.
 
+## Tags
+Employee Coaching · Staff Development · Performance Improvement
+
+---
+
 ## What’s Included (per employee)
 - 8x individualized coaching sessions per month  
 - Custom staff development & performance plan  
@@ -38,15 +43,7 @@ Each coaching program is individualized to ensure employees feel supported, moti
 - Includes 8 personalized sessions  
 - Scales one employee at a time — no group coaching
 
-## Tags
-Employee Coaching · Staff Development · Performance Improvement
-
-**Invest in each employee → See measurable business results.**
-
-<p style="text-align:center; max-width:640px; margin:2rem auto;">
-  Invest in your people — strengthen accountability, communication, and confidence.<br>
-  This individualized <strong>Staff Development Plan</strong> begins with understanding both leadership goals and the employee’s readiness to grow.
-</p>
+Invest in your people — strengthen accountability, communication, and confidence.
 
 <button id="startProcessBtn" class="btn">Start Your Staff Development Plan</button>
 
