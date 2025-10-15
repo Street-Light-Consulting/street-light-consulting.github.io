@@ -9,9 +9,12 @@ author: Rob S
 collections:
   authors:
     output: true
+    permalink: /consultants/:name/
   services:
     output: true
     permalink: /services/:name/
+
+
 
 permalink: /:categories/:year/:month/:day/:title/
 

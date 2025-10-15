@@ -2,7 +2,7 @@
 layout: post
 title: "Recruiting Should Be Deeply Personal"
 date: 2025-10-07
-author: Robert Street
+author: Rob
 categories: [Leadership, Operations, Hiring]
 tags: [recruiting, hr, leadership, faith, relationships]
 excerpt: "Hiring is not a transaction — it’s a relationship. Recruiting should be deeply personal, rooted in genuine connection, honest feedback, and respect for each person’s worth."
