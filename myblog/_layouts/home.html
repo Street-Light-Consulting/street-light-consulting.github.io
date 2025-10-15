@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="hero-inner">
+    <img src="{{ '/assets/img/logo.webp' | relative_url }}" alt="Street Light Consulting logo" class="hero-logo" loading="eager">
+    <h1>Street Light Consulting</h1>
+    <p class="tagline">Illuminating clarity in leadership and mission.</p>
+    <a href="{{ '/services/' | relative_url }}" class="btn bronze">Explore Services</a>
+  </div>
+</section>
+
+<section>
+  <h1>Featured Services</h1>
+  <div class="grid">
+    {% assign featured = site.services | slice: 0, 2 %}
+    {% for s in featured %}
+    <article class="card">
+      <h3>{{ s.title }}</h3>
+      {% if s.image %}<img src="{{ s.image | relative_url }}" alt="{{ s.title }}" loading="lazy">{% endif %}
+      <p class="tagline">{{ s.tagline }}</p>
+      <p class="price">{{ s.price }}</p>
+      <a href="{{ s.url | relative_url }}" class="btn">View Project</a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section>
+  <h1>Latest Insights</h1>
+  <div class="grid">
+    {% assign latest = site.posts | slice: 0, 2 %}
+    {% for p in latest %}
+    <article class="card">
+      <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+      {% if p.image %}<img class="service-hero" src="{{ p.image | relative_url }}" alt="{{ p.title }}" loading="lazy">{% endif %}
+      <p class="meta">{{ p.date | date: "%b %d, %Y" }}</p>
+      <p>{{ p.excerpt }}</p>
+      <a href="{{ p.url | relative_url }}" class="btn">Read More</a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
