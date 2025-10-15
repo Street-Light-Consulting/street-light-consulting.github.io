@@ -45,5 +45,4 @@ I help leaders design people-centered operations that grow trust, efficiency, an
 
 ---
 
-*Written by Robert Street — Virtual COO, Street-Light Consulting.*  
-*Helping organizations build systems that serve people — not the other way around.*
+*We help organizations build systems that serve people — not the other way around.*
