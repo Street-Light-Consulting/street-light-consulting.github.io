@@ -4,9 +4,11 @@ description: Helping leaders build clarity, systems, and faith-driven excellence
 url: https://streetlight.consulting
 baseurl: ""
 
-author: Rob Street
+author: Rob S
 
 collections:
+  authors:
+    output: true
   services:
     output: true
     permalink: /services/:name/
@@ -19,3 +21,11 @@ plugins:
 
 sass:
   style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+
