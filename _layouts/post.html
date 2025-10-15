@@ -9,13 +9,23 @@ permalink: /blog/
   <h1>{{ page.title }}</h1>
 
   {% assign consultant = site.authors | where: "name", page.author | first %}
-  {% if consultant %}
-    <p class="post-author">
-      By <a href="{{ consultant.url | relative_url }}">{{ consultant.name }}</a>
-      <span class="author-tagline">— {{ consultant.tagline }}</span>
-    </p>
-  {% endif %}
-
+{% if consultant %}
+  <div class="post-author">
+    {% if consultant.avatar %}
+      <a href="{{ consultant.url | relative_url }}" class="avatar-link">
+        <div class="avatar-frame {% if consultant.avatar contains 'logo' %}favicon-style{% endif %}">
+          <img src="{{ consultant.avatar | relative_url }}" alt="{{ consultant.name }}" class="author-avatar-small">
+        </div>
+      </a>
+    {% endif %}
+    <div class="author-text">
+      <p>
+        By <a href="{{ consultant.url | relative_url }}">{{ consultant.name }}</a>
+        <span class="author-tagline">— {{ consultant.tagline }}</span>
+      </p>
+    </div>
+  </div>
+{% endif %}
   {% if page.image %}
     <img class="service-hero" src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy">
   {% endif %}
@@ -28,91 +38,21 @@ permalink: /blog/
 
   <p><a href="{{ '/blog/' | relative_url }}">← Back to Insights</a></p>
 
-  {% if consultant %}
-    <div class="about-author">
-      <div class="about-text">
-        <h3>About {{ consultant.name }}</h3>
-        <p>{{ consultant.bio }}</p>
-        <p class="author-link"><a href="{{ consultant.url | relative_url }}">View {{ consultant.name }}’s page →</a></p>
+ {% if consultant %}
+  <div class="post-author">
+    {% if consultant.avatar %}
+      <div class="avatar-frame {% if consultant.avatar contains 'logo' %}favicon-style{% endif %}">
+        <img src="{{ consultant.avatar | relative_url }}" alt="{{ consultant.name }}" class="author-avatar-small">
       </div>
+    {% endif %}
+    <div class="author-text">
+      <p>
+        By <a href="{{ consultant.url | relative_url }}">{{ consultant.name }}</a>
+        <span class="author-tagline">— {{ consultant.bio }}</span>
+      </p>
+      <p class="author-link"><a href="{{ consultant.url | relative_url }}">View {{ consultant.name }}’s page →</a></p>
     </div>
-  {% endif %}
-</article>
+  </div>
+{% endif %}
 
-<style>
-.post-author {
-  font-size: 0.95rem;
-  color: #444;
-  margin-bottom: 0.5rem;
-}
-.post-author a {
-  text-decoration: none;
-  color: #2a5d84;
-  font-weight: 600;
-}
-.author-tagline {
-  color: #777;
-  font-style: italic;
-  margin-left: 0.25rem;
-}
-.service-hero {
-  width: 100%;
-  border-radius: 12px;
-  margin: 1rem 0;
-}
-.meta {
-  color: #888;
-  font-size: 0.85rem;
-  margin-bottom: 1rem;
-}
-.post-body {
-  line-height: 1.7;
-  color: #333;
-}
-.about-author {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 1px solid #eee;
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-.avatar-frame {
-  display: inline-block;
-  border-radius: 50%;
-  padding: 6px;
-  background-color: #fff;
-}
-.favicon-style {
-  border: 2px solid #eaeaea;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  padding: 8px;
-}
-.author-avatar {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-.about-text {
-  flex: 1;
-  min-width: 250px;
-}
-.about-text h3 {
-  margin-bottom: 0.3rem;
-  color: #2a5d84;
-}
-.about-text p {
-  margin-bottom: 0.5rem;
-  color: #555;
-}
-.author-link a {
-  font-size: 0.9rem;
-  text-decoration: none;
-  color: #2a5d84;
-}
-.author-link a:hover {
-  text-decoration: underline;
-}
-</style>
+</article>
