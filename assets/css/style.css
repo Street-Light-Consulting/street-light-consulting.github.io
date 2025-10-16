@@ -529,3 +529,34 @@ legend {
   from { opacity: 0; transform: scale(0.95); }
   to { opacity: 1; transform: scale(1); }
 }
+
+
+/* Success Overlay (Shared Across Service Pages) */
+.success-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.8); /* dark translucent backdrop */
+  justify-content: center;
+  align-items: center;
+  z-index: 10000;
+}
+
+.success-overlay.show {
+  display: flex;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.success-content {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2rem 2.5rem;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
