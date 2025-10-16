@@ -15,6 +15,9 @@ image: /assets/img/logo.webp
   <div class="text-side">
     <p>I started Street Light Consulting because I couldn’t find a firm that viewed business through the lens of faith. Too many organizations are losing their way — chasing metrics while missing meaning. I’ve seen workplaces where systems crush people instead of lifting them, where hiring is broken, and where good leaders burn out trying to fix what culture forgot.</p>
     <p>Street Light was born on my trip to Rome out of hope — the belief that business can be a force for renewal. My mission is to help teams rediscover purpose, strengthen trust, and return to the kind of leadership that listens. Because when leaders choose light over noise, they don’t just build stronger companies — they help restore faith in the system itself.</p>
+
+    -Rob Street
+
   </div>
 </div>
 
