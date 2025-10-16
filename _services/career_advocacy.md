@@ -129,19 +129,3 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
-
-<style>
-.container { max-width: 960px; margin: 0 auto; padding: 2rem 1rem; }
-.btn { display: inline-block; background: #334155; color: #fff; padding: .65rem 1rem; border-radius: 8px; border: none; cursor: pointer; }
-.form-modal { display: none; position: fixed; inset: 0; background: rgba(15, 23, 42, .7); justify-content: center; align-items: center; z-index: 9999; }
-.form-modal.show { display: flex; }
-.form-content { background: #fff; border-radius: 10px; padding: 1.5rem; width: 100%; max-width: 600px; position: relative; }
-.close-modal { position: absolute; top: .5rem; right: .75rem; background: none; border: none; font-size: 1.5rem; cursor: pointer; }
-label { display: block; margin-bottom: .75rem; }
-input, textarea { width: 100%; padding: .5rem; border: 1px solid #cbd5e1; border-radius: 8px; }
-.success-overlay { display: none; position: fixed; inset: 0; background: rgba(15,23,42,.8); justify-content: center; align-items: center; }
-.success-overlay.show { display: flex; }
-.success-content { background: #fff; border-radius: 10px; padding: 2rem; text-align: center; }
-.disclaimer { font-size: .9rem; color: #475569; margin-top: 1rem; }
-.visually-hidden { position: absolute; left: -9999px; }
-</style>
