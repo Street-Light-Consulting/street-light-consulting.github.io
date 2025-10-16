@@ -1,71 +1,39 @@
+<div class="centered-logo">
+  <img src="/assets/img/logo.webp" alt="Street Light Consulting Logo" class="about-logo" />
+</div>
+
 ---
 layout: page
-title: About
-description: Restoring balance, humility, and clarity to organizations trapped by complexity and burnout.
-permalink: /about/
+title: About Street Light Consulting
+tagline: Helping leaders build clarity, systems, and faith-driven excellence.
+image: /assets/img/about/streetlight-about.webp
 ---
 
-> “Your people will rebuild the ancient ruins
-> and will raise up the age-old foundations;
-> you will be called Repairer of Broken Walls,
-> Restorer of Streets with Dwellings.”
-> — *Isaiah 58:12*
+> *“You are the light of the world. A city set on a hill cannot be hidden.” — Matthew 5:14*
 
-## Our Why
+## Our Philosophy
+Street Light Consulting was founded on a simple conviction: that organizations thrive when they care for the people within them. We believe that sustainable growth comes from spiritual, emotional, and operational health working in harmony. 
 
-At **Street Light Consulting**, we believe work was never meant to be a burden.  
-When organizations lose sight of their purpose, the weight of endless meetings, late nights, and anxious striving replaces peace.  
-We exist to help leaders and teams rediscover order, rest, and humility — to trade the golden handcuffs of success for the freedom of clarity.
-
-> “Come to me, all you who are weary and burdened, and I will give you rest.” — *Matthew 11:28*
-
-## The Problem We See
-
-Across boardrooms, nonprofits, and ministries, the same quiet struggle appears:  
-stressed-out CEOs, exhausted staff, and the creeping belief that more activity means more impact.  
-
-When growth outruns purpose, people burn out.  
-When profit overshadows calling, peace departs.  
-Our work is to bring that peace back — to remind organizations that balance is not weakness; it’s wisdom.
-
-## Our Mission
-
-> *To restore balance and clarity in leadership through humility, stewardship, and truth.*
-
-We help organizations strip away what’s unnecessary, rebuild systems that serve people — not the other way around — and realign daily operations with what truly matters.  
-The goal is simple: **work that honors both God and those who do it.**
+Our work invites leaders to see business as more than performance metrics — it’s an act of stewardship. When people grow, the organization grows. When integrity is restored, momentum returns. And when faith leads, clarity follows.
 
 ## Our Approach
+We partner with leaders and teams to bring clarity to systems, structure to vision, and peace to the process. Our consulting engagements are deeply personal and highly practical — designed to uncover the root issues that block growth and replace them with actionable, values-driven systems.
 
-1. **Listen with discernment.** Every leader has a story, and every problem has a root.  
-2. **Bring light to what’s hidden.** We uncover patterns of waste, stress, and confusion.  
-3. **Rebuild from first principles.** We design systems that protect people and mission.  
-4. **Restore humility and rhythm.** We realign culture toward rest, gratitude, and service.  
-
-> “Unless the Lord builds the house, those who build it labor in vain.” — *Psalm 127:1*
+Each engagement begins with understanding the people behind the process. From there, we align strategy, accountability, and culture to build organizations that run efficiently *and* lead compassionately. Our goal is to leave every client with renewed focus, a healthier rhythm, and confidence that their systems reflect their values.
 
 ## Our Values
+- **Integrity:** We believe in honesty, transparency, and consistency — even when no one is watching.  
+- **Stewardship:** Every organization is entrusted with people and purpose. We help leaders manage both faithfully.  
+- **Renewal:** Growth comes from reflection, humility, and courage to change.  
+- **Excellence:** We pursue quality not as perfectionism, but as care — doing good work because it serves others well.  
+- **Faith:** Our work is grounded in God’s truth and guided by prayer. We place purpose above profit and people before process.  
 
-| Core Value | Description |
-|-------------|-------------|
-| **Humility** | Leadership begins with serving others before self. |
-| **Stewardship** | Every resource — time, money, people — is entrusted, not owned. |
-| **Truth** | We speak plainly and work honestly, even when it’s uncomfortable. |
-| **Order** | God brings peace through structure and purpose. |
-| **Restoration** | Every organization can be redeemed from burnout and confusion. |
+## Founder’s Note
+I started Street Light Consulting because I couldn’t find a firm that viewed business through the lens of faith. Too many organizations are losing their way — chasing metrics while missing meaning. I’ve seen workplaces where systems crush people instead of lifting them, where hiring is broken, and where good leaders burn out trying to fix what culture forgot.
 
-## A Message to Leaders
+Street Light was born out of hope — the belief that business can be a force for renewal. My mission is to help teams rediscover purpose, strengthen trust, and return to the kind of leadership that listens. Because when leaders choose light over noise, they don’t just build stronger companies — they help restore faith in the system itself.
 
-If you’ve been leading from exhaustion —  
-if the work has become heavy,  
-if the joy has slipped away —  
-know that you’re not alone.  
+## Explore Services
+Ready to take the next step? Explore our service offerings to see how Street Light Consulting can bring clarity, structure, and renewal to your organization.  
 
-There is still time to rebuild.  
-To restore peace to your people.  
-To make your work an act of worship again.  
-
-You were never meant to carry this by yourself.  
-Let’s rebuild the walls, restore the streets, and bring light back to the work you were called to do.
-
-[Explore Services →](/services/)
+[Explore Our Services →](/services/)
