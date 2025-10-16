@@ -25,12 +25,20 @@ Each engagement begins with understanding the people behind the process. From th
 - **Faith:** Our work is grounded in God’s truth and guided by prayer. We place purpose above profit and people before process.  
 
 ## Founder’s Note
-![Hanging Out with the Holy Spirit in Rome](/assets/img/RobStreetFounder.webp)
+<div class="image-text-split">
+  <div class="image-side">
+    <img src="/assets/img/RobStreetFounder.webp" alt="Street Light Consulting Logo">
+  </div>
+  <div class="text-side">
+    <p>I started Street Light Consulting because I couldn’t find a firm that viewed business through the lens of faith. Too many organizations are losing their way — chasing metrics while missing meaning. I’ve seen workplaces where systems crush people instead of lifting them, where hiring is broken, and where good leaders burn out trying to fix what culture forgot.</p>
+
+    Street Light was born on my trip to Rome out of hope — the belief that business can be a force for renewal. My mission is to help teams rediscover purpose, strengthen trust, and return to the kind of leadership that listens. Because when leaders choose light over noise, they don’t just build stronger companies — they help restore faith in the system itself. </p>
+  </div>
+</div>
 
 
-I started Street Light Consulting because I couldn’t find a firm that viewed business through the lens of faith. Too many organizations are losing their way — chasing metrics while missing meaning. I’ve seen workplaces where systems crush people instead of lifting them, where hiring is broken, and where good leaders burn out trying to fix what culture forgot.
 
-Street Light was born on my trip to Rome out of hope — the belief that business can be a force for renewal. My mission is to help teams rediscover purpose, strengthen trust, and return to the kind of leadership that listens. Because when leaders choose light over noise, they don’t just build stronger companies — they help restore faith in the system itself.
+
 
 ## Explore Services
 Ready to take the next step? Explore our service offerings to see how Street Light Consulting can bring clarity, structure, and renewal to your organization.  

@@ -560,3 +560,44 @@ legend {
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
+.image-text-split {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.image-text-split .image-side {
+  flex: 1 1 30%;
+  max-width: 30%;
+  text-align: center;
+}
+
+.image-text-split .image-side img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.image-text-split .text-side {
+  flex: 1 1 65%;
+  max-width: 65%;
+}
+
+@media (max-width: 768px) {
+  .image-text-split {
+    flex-direction: column;
+    text-align: center;
+  }
+  .image-text-split .image-side,
+  .image-text-split .text-side {
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+  .image-text-split .text-side {
+    margin-top: 1rem;
+  }
+}
