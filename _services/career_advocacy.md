@@ -129,3 +129,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
+
+<style>
+/* Page-specific only (no overlap with global style.css) */
+.disclaimer { font-size: .9rem; color: var(--muted-color); margin-top: 1rem; }
+.visually-hidden { position: absolute; left: -9999px; }
+</style>
