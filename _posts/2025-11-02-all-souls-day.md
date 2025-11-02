@@ -4,8 +4,8 @@ title: "From Mortality to Mission: Leadership Lessons from All Souls’ Day"
 date: 2025-11-02
 author: Street Light Consulting
 categories: leadership, renewal, mission
-description: "When faith invites us to see beyond loss — how today's readings on All Souls' Day can inspire organisational culture and leadership rooted in hope."
 image: /assets/img/posts/love-ambition.webp
+description: "When faith invites us to see beyond loss — how today's readings on All Souls' Day can inspire organisational culture and leadership rooted in hope."
 ---
 
 **From Mortality to Mission: Leadership Lessons from All Souls’ Day**
