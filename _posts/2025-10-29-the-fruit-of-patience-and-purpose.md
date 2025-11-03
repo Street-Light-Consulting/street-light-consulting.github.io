@@ -2,7 +2,7 @@
 layout: post
 title: "The Fruit of Patience and Purpose"
 date: 2025-10-29
-author: Rob
+author: Rob Street
 categories: [leadership, renewal]
 image: /assets/img/posts/balance-spirit-flesh.webp
 description: "Reflecting on Romans 8 and Luke 13, leaders are invited to nurture teams with patience, purpose, and the breath of renewal."

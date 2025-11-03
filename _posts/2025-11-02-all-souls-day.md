@@ -2,7 +2,7 @@
 layout: post
 title: "From Mortality to Mission: Leadership Lessons from All Souls’ Day"
 date: 2025-11-02
-author: Street Light Consulting
+author: Rob Street
 categories: leadership, renewal, mission
 image: /assets/img/posts/all-souls.webp
 description: "When faith invites us to see beyond loss — how today's readings on All Souls' Day can inspire organisational culture and leadership rooted in hope."

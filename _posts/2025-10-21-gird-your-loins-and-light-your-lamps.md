@@ -2,7 +2,7 @@
 layout: post
 title: "Gird Your Loins and Light Your Lamps"
 date: 2025-10-21
-author: Rob
+author: Rob Street
 tags: [faith, leadership, readiness, joy, servant-leadership]
 image: /assets/img/posts/team-lighting-torch.webp
 description: "A reflection on Luke 12:35–38 — how leaders can lift their teams by lighting the company’s torch with joy and readiness of heart."

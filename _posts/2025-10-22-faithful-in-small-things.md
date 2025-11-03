@@ -2,7 +2,7 @@
 layout: post
 title: "Faithful in Small Things: Readiness and Stewardship for Leaders"
 date: 2025-10-22
-author: Rob
+author: Rob Street
 tags: [faith, leadership, stewardship, vigilance, purpose]
 image: /assets/img/posts/faith-in-small-things.webp
 description: "A reflection for business leaders on Romans 6, Psalm 124, and Luke 12:39–48 — learning vigilance, humility, and heart-driven leadership."
