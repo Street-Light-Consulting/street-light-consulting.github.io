@@ -1,15 +1,11 @@
 ---
 layout: post
-title: "Gifts, Gratitude & Inclusion: A Business Reflection on 3 November 2025"
+title: "Gifts, Gratitude & Inclusion"
 date: 2025-11-03
 author: Rob Street
 image: /assets/img/posts/the_generosity_department.webp
 tags: [leadership, business, spirituality, organizational-growth, satire]
 ---
-
-**Today’s readings (Romans 11:29‑36; Psalm 69:30‑31,33‑34,36; Luke 14:12‑14)** invite us to think about leadership not just as strategy or execution—but as a posture of gratitude, generosity, and inclusion.
-
-### Recognising Our Gifts  
 When a leader accepts that their role and the organization’s opportunities are gifts, it changes how control, humility and stewardship are handled. Instead of “what I’ve built,” the question becomes “what am I stewarding for?”
 
 ### Cultivating Gratitude & Humility  
@@ -23,6 +19,8 @@ Our mid‑century satire piece this week, *The Generosity Department*, imagines 
 > “Because empathy should always be centrally managed.”  
 
 The humor reminds us that authentic generosity cannot be automated or scheduled. True renewal happens when grace exceeds the system.
+
+**Today’s readings (Romans 11:29‑36; Psalm 69:30‑31,33‑34,36; Luke 14:12‑14)** invite us to think about leadership not just as strategy or execution—but as a posture of gratitude, generosity, and inclusion.
 
 ### 10 Reflection Questions for Leaders  
 1. What talents or opportunities in my organization am I relying on as if they were earned wholly by my own effort, rather than received as a gift?  
@@ -40,4 +38,3 @@ The humor reminds us that authentic generosity cannot be automated or scheduled.
 
 **At Street Light Consulting**, we believe that organizational renewal begins when leadership aligns vision with generosity and inclusion. Today’s reading encourages us: lead with an open banquet, invite those who cannot repay, and let growth become more than business—it becomes community.
 
-![The Generosity Department](/assets/images/the_generosity_department.webp)
