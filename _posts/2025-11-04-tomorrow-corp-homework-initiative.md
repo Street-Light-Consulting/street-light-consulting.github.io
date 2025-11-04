@@ -7,8 +7,6 @@ tags: [satire, leadership, business, spirituality, organizational-growth, faith-
 image: /assets/img/posts/tomorrow_corp_homework_initiative.webp
 ---
 
-**Corporate Press Release — Tales from the Corporate Wasteland**
-
 Tomorrow Corp is proud to announce its latest productivity breakthrough: **The Homework Initiative** — because your spiritual gifts should be fully optimized for maximum output.
 
 Executives explain that many employees were wasting valuable creativity on “family,” “service,” and “rest.” In a bold act of synergy, Tomorrow Corp has found a way to bring work *home* — ensuring that every ounce of divine inspiration can now serve a measurable KPI.
