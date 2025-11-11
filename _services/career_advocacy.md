@@ -4,7 +4,7 @@ title: Career Representation & Advocacy
 tagline: We help people find employers that actually care.
 price: "$400/month ($200 due at signing, $200 success fee after 90 days)"
 image: /assets/img/services/advocacy.webp
-order: 5
+order: 6
 ---
 
 ## Description
