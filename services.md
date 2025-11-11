@@ -5,7 +5,8 @@ permalink: /services/
 ---
 
 <div class="grid">
-  {% for service in site.services %}
+  {% assign sorted_services = site.services | sort: "order" %}
+  {% for service in sorted_services %}
   <article class="card">
     {% if service.image %}<img src="{{ service.image | relative_url }}" alt="{{ service.title }}" loading="lazy">{% endif %}
     <h2>{{ service.title }}</h2>

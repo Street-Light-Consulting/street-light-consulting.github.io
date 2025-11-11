@@ -5,7 +5,7 @@ layout: default
   <div class="hero-inner">
     <img src="{{ '/assets/img/logo.webp' | relative_url }}" alt="Street Light Consulting logo" class="hero-logo" loading="eager">
     <h1>Street Light Consulting</h1>
-    <p class="tagline">Illuminating clarity in leadership and mission.</p>
+    <p class="tagline">Guided by Faith. Grounded in Stewardship</p>
     <a href="{{ '/services/' | relative_url }}" class="btn bronze">Explore Services</a>
   </div>
 </section>
@@ -13,7 +13,7 @@ layout: default
 <section>
   <h1>Featured Services</h1>
   <div class="grid">
-    {% assign featured = site.services | slice: 0, 2 %}
+   {% assign featured = site.services | sort: "order" | slice: 0, 2 %}
     {% for s in featured %}
     <article class="card">
       <h3>{{ s.title }}</h3>

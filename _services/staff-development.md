@@ -4,6 +4,7 @@ title: Staff Development & Performance Coaching
 tagline: Build accountability, confidence, and measurable performance improvement.
 price: "$800/month per employee (8 sessions)"
 image: /assets/img/services/staff.webp
+order: 2
 ---
 
 ## Description
