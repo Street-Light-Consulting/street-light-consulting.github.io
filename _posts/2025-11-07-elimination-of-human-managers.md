@@ -8,6 +8,20 @@ audio: /assets/audio/elimination-of-human-managers.mp3
 layout: post
 ---
 
+---
+
+<div style="text-align:center; margin: 2em 0;">
+  <p><strong>🎧 Listen to the Tomorrow Corp Radio Broadcast:</strong></p>
+  <audio controls style="width:80%;">
+    <source src="/assets/audio/elimination-of-human-managers.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
+<!--more-->
+
 At Tomorrow Corp, we have heard your concerns that your managers no longer care and have not been effective stewards. In response, we are pleased to announce that **all managerial positions have been replaced** with our new **A.I. Thought Companion:** **Sheppard™**.
 
 Need direction or purpose?  
@@ -28,18 +42,6 @@ Compensation now **increases automatically** — **2% every 10 years** of loyal 
 
 **Tomorrow Corp**  
 *Shaping Tomorrow… So You Don’t Have To™*
-
----
-
-<div style="text-align:center; margin: 2em 0;">
-  <p><strong>🎧 Listen to the Tomorrow Corp Radio Broadcast:</strong></p>
-  <audio controls style="width:80%;">
-    <source src="/assets/audio/elimination-of-human-managers.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
----
 
 ## Reflection: What is Stewardship?
 
