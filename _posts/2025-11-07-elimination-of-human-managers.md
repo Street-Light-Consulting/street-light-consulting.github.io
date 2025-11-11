@@ -6,6 +6,7 @@ categories: [Faith & Leadership, Daily Reflection]
 image: /assets/img/posts/elimination-of-human-managers.webp
 audio: /assets/audio/elimination-of-human-managers.mp3
 layout: post
+excerpt: "Tommorow Corp replaces all human managers with A.I."
 ---
 
 ---
@@ -19,8 +20,6 @@ layout: post
 </div>
 
 ---
-
-<!--more-->
 
 At Tomorrow Corp, we have heard your concerns that your managers no longer care and have not been effective stewards. In response, we are pleased to announce that **all managerial positions have been replaced** with our new **A.I. Thought Companion:** **Sheppard™**.
 

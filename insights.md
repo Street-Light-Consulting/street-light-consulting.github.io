@@ -10,7 +10,7 @@ permalink: /insights/
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       {% if post.image %}<img class="service-hero" src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">{% endif %}
     <p class="meta">{{ post.date | date: "%b %d, %Y" }}</p>
-    <p>{{ post.excerpt }}</p>
+    <p>{{ post.excerpt | markdownify }}</p>
     <a href="{{ post.url | relative_url }}" class="btn">Read More</a>
   </article>
   {% endfor %}
