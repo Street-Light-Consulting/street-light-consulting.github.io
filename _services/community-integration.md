@@ -4,6 +4,7 @@ title: Purpose in Practice
 tagline: A 30-Day Corporate Renewal Experience in Servant Leadership and Community Action
 price: "$7,500 / 30-Day Engagement"
 image: /assets/img/services/community.webp
+order: 5
 ---
 
 *“Go and do likewise.” — Luke 10:37*

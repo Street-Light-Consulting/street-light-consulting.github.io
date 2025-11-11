@@ -4,6 +4,7 @@ title: Executive Strategy & Operations Coaching
 tagline: An executive clarity session — strategy and focus in one hour.
 price: "$100 / first hour — $60 each additional hour"
 image: /assets/img/services/executive.webp
+order: 1
 ---
 
 Executives and founders often operate at the edge of complexity — balancing growth, people, and purpose.  

@@ -4,6 +4,7 @@ title: Operational Systems & Process Improvement
 tagline: Replace chaos with clarity — a full systems reset for your organization.
 price: "$10,000 / 30-Day Engagement"
 image: /assets/img/services/operations.webp
+order: 2
 ---
 
 ## Description

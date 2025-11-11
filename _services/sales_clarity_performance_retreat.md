@@ -4,6 +4,7 @@ title: Sales Clarity & Performance Retreat – Jekyll Island
 tagline: Step away to move forward.
 price: "$10,000 total engagement (30-day onsite partnership)"
 image: /assets/img/services/sales-retreat.webp
+order: 4
 ---
 
 ## Description
