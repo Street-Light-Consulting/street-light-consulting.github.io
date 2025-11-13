@@ -12,7 +12,7 @@ excerpt: "Tommorow Corp replaces all human managers with A.I."
 ---
 
 <div style="text-align:center; margin: 2em 0;">
-  <p><strong>🎧 Listen to the Tomorrow Corp Radio Broadcast:</strong></p>
+  <p><strong>🎧 Listen to the Blog on the Tomorrow Corp Radio Broadcast:</strong></p>
   <audio controls style="width:80%;">
     <source src="/assets/audio/elimination-of-human-managers.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
@@ -43,18 +43,6 @@ Compensation now **increases automatically** — **2% every 10 years** of loyal 
 *Shaping Tomorrow… So You Don’t Have To™*
 
 ## Reflection: What is Stewardship?
-
----
-
-<div style="text-align:center; margin: 2em 0;">
-  <p><strong>🎧 Listen to today's reflection:</strong></p>
-  <audio controls style="width:80%;">
-    <source src="/assets/audio/stewardship.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
----
 
 Today’s readings remind us that our lives, gifts, and positions are **not possessions**, but **entrusted stewardship**. We are called to act with prudence, shaping our lives around the eternal, not the temporary world we pass through.
 
