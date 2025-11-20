@@ -4,8 +4,21 @@ author: Rob Street
 date: 2025-11-12
 categories: tomorrowcorp
 image: /assets/img/posts/managers-are-always-right.webp
+audio: /assets/audio/leadership-thats-always-right.mp3
 layout: post
 excerpt: "At Tomorrow Corp, we remind all associates that your managers are always 100% right — even when they’re 100% wrong." 
+
+---
+
+---
+
+<div style="text-align:center; margin: 2em 0;">
+  <p><strong>🎧 Listen to the Blog on the Tomorrow Corp Radio Broadcast:</strong></p>
+  <audio controls style="width:80%;">
+    <source src="/assets/audio/leadership-thats-always-right.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 
 ---
 
