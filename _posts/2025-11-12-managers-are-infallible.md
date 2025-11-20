@@ -5,7 +5,7 @@ date: 2025-11-12
 categories: [Faith & Leadership, Tomorrow Corp]
 image: /assets/img/posts/managers-are-always-right.webp
 layout: post
-excerpt: "At Tomorrow Corp, we remind all associates that **your managers are always 100% right — even when they’re 100% wrong." 
+excerpt: "At Tomorrow Corp, we remind all associates that your managers are always 100% right — even when they’re 100% wrong." 
 
 ---
 
