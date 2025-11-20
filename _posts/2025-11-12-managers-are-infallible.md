@@ -42,6 +42,20 @@ If *you* are wrong, you **lose your job.**
 
 ## What Is Divine Leadership?  
 
+---
+
+<div style="text-align:center; margin: 2em 0;">
+  <p><strong>🎧 Listen Here:</strong></p>
+  <audio controls style="width:80%;">
+    <source src="/assets/audio/what-is-divine-leadership.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
+
+
 The Book of Wisdom reminds us that as managers, we don’t just report to shareholders and the handbook:  
 
 > *“Hearken, you who are in power over the multitude  
