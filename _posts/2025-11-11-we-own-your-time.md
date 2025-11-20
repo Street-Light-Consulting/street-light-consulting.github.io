@@ -4,8 +4,20 @@ author: Rob Street
 date: 2025-11-11
 categories: tomorrowcorp
 image: /assets/img/posts/we-own-your-time.webp
+audio: /assets/audio/we-own-your-time.mp3
 layout: post
 excerpt: "At Tomorrow Corp, we kindly remind you that by choosing to work here, you have joyfully surrendered all of your time, treasure, and talents for the greater good of corporate efficiency."
+---
+---
+
+<div style="text-align:center; margin: 2em 0;">
+  <p><strong>🎧 Listen to the Blog on the Tomorrow Corp Radio Broadcast:</strong></p>
+  <audio controls style="width:80%;">
+    <source src="/assets/audio/leadership-thats-always-right.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
 ---
 
 ### **Reminder: We Own All of Your Time and Talent!**
