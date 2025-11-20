@@ -5,7 +5,7 @@ date: 2025-11-06
 categories: tomorrowcorp
 image: /assets/img/posts/tomorrowcorp-ai-thought-companion.webp
 audio: /assets/audio/ai-thought-companion.mp3
-description: "A satirical reflection on control, trust, and spiritual leadership — inspired by the daily readings."
+excerpt: "We’ve heard your feedback that management has felt a little “out of sync” with local office life. Well, great news — your voice has been heard… and will continue to be heard every single moment you’re at work!"
 author: Rob Street
 ---
 
