@@ -1,35 +1,33 @@
 ---
 layout: post
-title: "Tomorrow Corp Announces: The Homework Initiative!"
+title: "The Homework Initiative!"
 date: 2025-11-04
 author: Rob Street
 tags: tomorrowcorp
 image: /assets/img/posts/tomorrow_corp_homework_initiative.webp
+audio: /assets/audio/homework-initiative.mp3
+excerpt: "We've heard your feedback that you want to work from home. Well, folks, permission granted! Tomorrow Corp is proud to announce its latest productivity breakthrough: The Homework Initiative!"
 ---
-
-Tomorrow Corp is proud to announce its latest productivity breakthrough: **The Homework Initiative** — because your spiritual gifts should be fully optimized for maximum output.
-
-Executives explain that many employees were wasting valuable creativity on “family,” “service,” and “rest.” In a bold act of synergy, Tomorrow Corp has found a way to bring work *home* — ensuring that every ounce of divine inspiration can now serve a measurable KPI.
-
-> “We realized that people were using their gifts outside of office hours,” said an enthusiastic HR director, “and that just didn’t align with our vision of holistic productivity.”  
-
-Under the new program, employees are invited to take their laptops, project binders, and mild anxiety home each evening. Families are encouraged to participate through *Team Alignment Activities* such as collaborative spreadsheeting and bedtime budget reviews. Even the dog can now serve as an Emotional Support Consultant.
-
-According to internal policy updates, all employee time now officially belongs to Tomorrow Corp — including evenings, weekends, and moments previously reserved for prayer or community service.  
-> “While we appreciate personal convictions,” an HR memo reads, “we ask that all spiritual gifts be directed toward corporate synergy objectives. Unauthorized acts of kindness, service, or worship outside of work channels may be considered a conflict of interest and should be reported to your HR Representative immediately.”
-
-The campaign poster cheerfully declares:  
-> “Work doesn’t stop at the office anymore — now you can bring it home! Yes, our regular 9-to-5 remains mandatory, but thanks to this exciting new program, you can enjoy the satisfaction of working even more!”
-
-In a stunning act of self-awareness, the program’s internal memo concludes:  
-> “Remember folks: Work is the most essential thing in your life.”  
-
-Observers note that this announcement follows the same ancient model of invitation described somewhere long before PowerPoint — a call to humility, calm trust, and inclusion. But Tomorrow Corp insists that any resemblance is purely coincidental.
 
 ---
 
-**Definitely not based on:**  
-*Romans 12:5–16ab*, *Psalm 131*, and *Luke 14:15–24.*
+<div style="text-align:center; margin: 2em 0;">
+  <p><strong>🎧 Listen to the Tomorrow Corp Radio Broadcast:</strong></p>
+  <audio controls style="width:80%;">
+    <source src="/assets/audio/homework-initiative.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
+We’ve heard your feedback that you want to work from home. Well, folks… permission granted! Tomorrow Corp is thrilled to unveil its latest productivity breakthrough: The Homework Initiative™!
+Thanks to this cutting-edge innovation, you can now take your work home with you at night, on weekends, and even on vacation! (Just to be clear, this does not replace your required 9–5 office hours—it simply enhances them.)
+In the middle of family time but get a work call? Approved! Kindly inform your family that you are stepping into that spare room you can now proudly call a “home office,” courtesy of Tomorrow Corp.
+Want to kick off your day with a 7 A.M. meeting while driving your kid to school? Absolutely! At Tomorrow Corp, we believe multitasking builds character.
+Standing in line at Disney and suddenly feel the urge to close a deal? Promotion material. That’s the Magic Kingdom spirit we like to see!
+Here at Tomorrow Corp, we’ve removed every barrier that once stood between your job and your family—because why should there be a boundary?
+Tomorrow Corp — where work is the most important thing in your life!™
 
 ---
 
