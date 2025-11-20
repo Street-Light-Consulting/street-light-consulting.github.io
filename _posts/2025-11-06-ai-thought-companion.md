@@ -9,18 +9,6 @@ description: "A satirical reflection on control, trust, and spiritual leadership
 author: Rob Street
 ---
 
-Tomorrow Corp is thrilled to unveil our latest innovation in workplace harmony — **The A.I. Thought Companion™!**
-
-This sleek, modern device sits neatly on your desk and *thoughtfully* screens every word you say, instantly reporting it to Corporate Headquarters!  
-
-We’ve heard your feedback that management has felt a little “out of sync” with local office life. Well, great news — your voice has been heard… and will continue to be heard **every single moment you’re at work!**  
-
-Have a complaint? Just say it out loud! Our state-of-the-art H.R. Response System will automatically send you a friendly cascade of templated emails addressing your every concern — in triplicate!  
-
-And for those worried about confusion over who said what, rest easy: our newly upgraded **facial-recognition cameras** ensure that every inspiring thought and whispered frustration is properly attributed to the right employee.  
-
-**Tomorrow Corp — Building Trust Through Total Transparency™**
-
 ---
 
 <div style="text-align:center; margin: 2em 0;">
@@ -32,6 +20,18 @@ And for those worried about confusion over who said what, rest easy: our newly u
 </div>
 
 ---
+
+Tomorrow Corp is thrilled to unveil our latest innovation in workplace harmony — **The A.I. Thought Companion™!**
+
+This sleek, modern device sits neatly on your desk and *thoughtfully* screens every word you say, instantly reporting it to Corporate Headquarters!  
+
+We’ve heard your feedback that management has felt a little “out of sync” with local office life. Well, great news — your voice has been heard… and will continue to be heard **every single moment you’re at work!**  
+
+Have a complaint? Just say it out loud! Our state-of-the-art H.R. Response System will automatically send you a friendly cascade of templated emails addressing your every concern — in triplicate!  
+
+And for those worried about confusion over who said what, rest easy: our newly upgraded **facial-recognition cameras** ensure that every inspiring thought and whispered frustration is properly attributed to the right employee.  
+
+**Tomorrow Corp — Building Trust Through Total Transparency™**
 
 ## **Reflection — “Total Control or Total Trust?”**
 
