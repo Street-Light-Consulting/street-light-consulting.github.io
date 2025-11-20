@@ -2,7 +2,7 @@
 title: "Managerial Infallibility Policy Update"
 author: Rob Street
 date: 2025-11-12
-categories: tomorrow-corp
+categories: tomorrowcorp
 image: /assets/img/posts/managers-are-always-right.webp
 layout: post
 excerpt: "At Tomorrow Corp, we remind all associates that your managers are always 100% right — even when they’re 100% wrong." 

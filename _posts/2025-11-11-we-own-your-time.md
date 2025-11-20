@@ -2,7 +2,7 @@
 title: We Own All of Your Time and Talent!
 author: Rob Street
 date: 2025-11-11
-categories: tomorrow-corp
+categories: tomorrowcorp
 image: /assets/img/posts/we-own-your-time.webp
 layout: post
 excerpt: "At Tomorrow Corp, we kindly remind you that by choosing to work here, you have joyfully surrendered all of your time, treasure, and talents for the greater good of corporate efficiency."

@@ -2,7 +2,7 @@
 layout: post
 title: "The A.I. Thought Companion!"
 date: 2025-11-06
-categories: tomorrow-corp
+categories: tomorrowcorp
 image: /assets/img/posts/tomorrowcorp-ai-thought-companion.webp
 audio: /assets/audio/ai-thought-companion.mp3
 description: "A satirical reflection on control, trust, and spiritual leadership — inspired by the daily readings."
