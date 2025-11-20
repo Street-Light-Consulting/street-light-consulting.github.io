@@ -2,7 +2,7 @@
 title: The Elimination of Human Managers
 author: Rob Street
 date: 2025-11-07
-categories: [Faith & Leadership, Daily Reflection]
+categories: tomorrow-corp
 image: /assets/img/posts/elimination-of-human-managers.webp
 audio: /assets/audio/elimination-of-human-managers.mp3
 layout: post

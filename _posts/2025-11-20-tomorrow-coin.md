@@ -2,7 +2,7 @@
 title: "Tomorrow Coin"
 author: Rob Street
 date: 2025-11-20
-categories: Tomorrow Corp
+categories: tomorrow-corp
 image: /assets/img/posts/tomorrow-coin.webp
 audio: /assets/audio/tomorrow-coin.mp3
 layout: post

@@ -3,7 +3,7 @@ layout: post
 title: "Tomorrow Corp Announces: The Homework Initiative!"
 date: 2025-11-04
 author: Rob Street
-tags: [satire, leadership, business, spirituality, organizational-growth, faith-in-work]
+tags: tomorrow-corp
 image: /assets/img/posts/tomorrow_corp_homework_initiative.webp
 ---
 
