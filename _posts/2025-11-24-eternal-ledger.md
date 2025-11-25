@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The Eternal Ledger"
-date: 2025-11-04
+date: 2025-11-24
 author: Rob Street
 tags: tomorrowcorp
 image: /assets/img/posts/eternal-ledger.webp
-audio: /assets/audio/eternal-ledger.mp3
 excerpt: "The Eternal Ledger eliminates the need for pesky CPA's by automatically recording every one of your transactions, forever."
 ---
 
