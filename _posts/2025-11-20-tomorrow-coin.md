@@ -54,7 +54,7 @@ Please note maintenance is not included and costs real world money.
 
 At Tomorrow Corp, we pay you—so you can pay only us!
 
-# Biblical Relection 
+# Biblical Reflection 
 
 And while Tomorrow Corp works tirelessly to invent new forms of imaginary wealth, today’s readings remind us what real treasure looks like—the kind that can’t be printed, minted, devalued, or restricted to corporate property lines.
 
@@ -62,7 +62,7 @@ And while Tomorrow Corp works tirelessly to invent new forms of imaginary wealth
 
 "Then you and your sons shall be numbered among the King’s Friends, and shall be enriched with silver and gold and many gifts.”
 
-# Workplace Relection
+# Workplace Reflection
 
 Do you follow orders that you know to be unethical just to gain riches or favor at work?
 
