@@ -5,7 +5,7 @@ date: 2025-12-19
 categories: [nonprofit, food-insecurity, leadership]
 tags: [decentralization, churches, volunteers, ai, compliance, family-farmers]
 author: Street Light Consulting
-description: "Why local, decentralized food relief—powered by volunteers, transparency, and modern tools can outperform centralized bureaucracy."
+excerpt: "Why local, decentralized food relief—powered by volunteers, transparency, and modern tools can outperform centralized bureaucracy."
 image: /assets/img/posts/food-decentralization.webp
 audio: /assets/audio/food-insecurity.mp3
 ---
