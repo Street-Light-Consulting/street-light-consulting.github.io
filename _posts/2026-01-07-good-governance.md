@@ -5,6 +5,7 @@ date: 2026-01-07 00:00:00 -0500
 categories: [work, leadership, governance]
 image: /assets/img/posts/good-governance.jpg
 tags: [governance, board, accountability, nonprofits, leadership, stewardship]
+excerpt: "Good Governance is not only the right way to operate, it is also biblical."
 ---
 
 > **“Plans succeed with counsel, but without guidance, people fall.”** — Proverbs 20:18  
